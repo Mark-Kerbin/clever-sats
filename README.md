@@ -22,4 +22,4 @@ SpaceDock: (NOT RELEASED)
 License;
 TBD
 
-Work on "Clever Sats" is being continued by VaPal and Mark Kerbin with permission for the orginal developer severedsolo
+Work on "Clever Sats" is being continued by VaPal and Mark Kerbin with permission from the orginal developer severedsolo
